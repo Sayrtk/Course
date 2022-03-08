@@ -14,4 +14,3 @@ function sortDown(a, b) {
 
 console.log(arr.sort(sortDown).join(", "));
 
-

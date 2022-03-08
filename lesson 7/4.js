@@ -16,3 +16,5 @@ function qualAndCount(firstNumber, secondNumber) {
     console.log(qual, count);
 }
 qualAndCount('3487', '3794')
+
+

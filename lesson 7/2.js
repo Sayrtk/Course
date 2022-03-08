@@ -23,4 +23,3 @@ maxNumberInArray(array);
 // let myArray = [3, 67, 15];
 // let m = MyMax(myArray);
 // console.log(m)
-

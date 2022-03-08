@@ -7,3 +7,4 @@ let a1 = arr.filter((item, index) => {
 })
 console.log(a1);
 
+
