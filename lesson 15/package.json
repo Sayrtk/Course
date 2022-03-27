@@ -1,0 +1,24 @@
+{
+  "name": "lesson-15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "jest-html-reporter": "^3.4.2"
+  },
+  "jest-html-reporter": {
+    "pageTitle": "Integrations Test Report",
+    "outputPath": "./test-report/test-report.html",
+    "includeFailureMsg": true,
+    "includeConsoleLog": true,
+    "includeSuiteFailure": true
+  }
+}
