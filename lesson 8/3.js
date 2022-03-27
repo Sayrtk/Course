@@ -13,5 +13,3 @@ let result = newArr.map(function (elem) {
     return Math.sqrt(elem)
 });
 
-console.log(result);
-

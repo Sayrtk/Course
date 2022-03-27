@@ -12,5 +12,3 @@ let func = counter();
 
 func();
 func();
-func();
-

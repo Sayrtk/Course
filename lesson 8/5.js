@@ -17,3 +17,4 @@ function isSumLess(num) {
 let num = 5647;
 let final_num = isSumLess(num);
 console.log(isSumLess(num));
+
